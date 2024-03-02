@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="175" src="https://cdn.discordapp.com/avatars/751223334414581823/50b099d67ca3e039a45ccecf151b548d.png?size=1024"  />
+<img align="right" height="160" src="https://cdn.discordapp.com/avatars/751223334414581823/50b099d67ca3e039a45ccecf151b548d.png?size=1024"  />
 
 ###
 
