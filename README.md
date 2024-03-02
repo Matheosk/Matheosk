@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake animation](https://github.com/Matheosk/Matheosk/blob/output/github-contribution-grid-snake.svg)
-
-###
