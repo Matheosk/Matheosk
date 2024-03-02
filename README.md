@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Matheosk/Matheosk/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/matheosk/matheosk/blob/output/github-contribution-grid-snake.svg)
 
 ###
