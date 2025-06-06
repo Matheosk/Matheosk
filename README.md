@@ -13,8 +13,12 @@
 
 **Contact Me**
 
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+<a href="https://x.com/Matheosk_" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
+<a href="mailto:matheosk@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
+</a>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Matheosk&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
