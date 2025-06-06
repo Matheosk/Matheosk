@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheo</h1>
 <h3 align="center">A dumb developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Rust** and **Python**
-
-- 👨‍💻 All of my projects are available at [matheosk.github.io](matheosk.github.io)
-
 - 📫 How to reach me **matheosk@proton.me**
 
 <h3 align="left">Connect with me:</h3>
